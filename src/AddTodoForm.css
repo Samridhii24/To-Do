@@ -1,0 +1,25 @@
+.add-todo-form {
+    margin-bottom: 20px;
+  }
+  
+  .todo-input {
+    padding: 15px;
+    font-size: 15px;
+    border: 1px solid rgb(245, 245, 220);
+    border-radius: 5px;
+  }
+  
+  .add-btn {
+    padding: 15px;
+    font-size: 15px;
+    background-color: green;
+    color: rgb(189, 205, 177);
+    border: 1px solid rgba(0, 128, 0, 0.564);
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-btn:hover {
+    background-color: rgb(3, 180, 3);
+  }
+  
